@@ -1,0 +1,10 @@
+2026-11-23T06:56:35Z start: Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsogenyBijectiveOnTorsionCoprimeDegree GlobalTheory.isogeny_torsion_bij
+2026-11-23T06:57:23Z export rc=0 46.77 s wall, 13.11 user, 19.50 sys, 10164392 KB peakrss, 29746 majflt  pss_anon_peak 645 MB
+2026-11-23T06:57:23Z export bytes 162346936 lines 3069994 sha256 e96926c65fc3cdb78bc4957906b2d015b3e72e2b8e73bf46b00d1c9bddd8dd22
+2026-11-23T06:57:29Z con-leche rc=0 4.52 s wall, 21.16 user, 1.09 sys, 263744 KB peakrss, 2 majflt  pss_anon_peak 239 MB
+2026-11-23T06:57:29Z con-leche: con-leche: accepted 22234 declarations (--verified)
+2026-11-23T06:57:33Z con-ron rc=0 2.91 s wall, 10.91 user, 0.85 sys, 521824 KB peakrss, 1 majflt  pss_anon_peak 301 MB
+2026-11-23T06:57:33Z con-ron: con-ron: accepted 22234 declarations (--verified)
+2026-11-23T06:57:37Z nanoda rc=0 2.91 s wall, 12.93 user, 0.21 sys, 354820 KB peakrss, 1 majflt  pss_anon_peak 272 MB
+2026-11-23T06:57:37Z nanoda: 
+CAL2-END

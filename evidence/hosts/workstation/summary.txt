@@ -1,0 +1,29 @@
+start 2026-11-20T19:06:00Z
+replay2 waiting on build pid 1845991 2026-11-20T20:27:36Z
+build stopped for restart 2026-11-21T10:12:08Z: memory.max of the 50G scope was hit 48.5 million times (page-cache thrash); restarting with 16 jobs and a 52G cap
+superseded (stop for the 16-job restart, not the end of the build): R1 build exit 143 2026-11-21T10:12:09Z
+build restarted 2026-11-21T10:12:25Z pid 588226 (16 jobs, 52G); replay2 waits on it
+replay2 waiting on build pid 588226 2026-11-21T10:12:25Z
+build stopped for restart 2026-11-21T11:10:59Z: 16 jobs used 23 of 52 GB with no memory.max hit; restarting with 24 jobs
+build restarted 2026-11-21T11:11:15Z pid 677122 (24 jobs, 52G); replay2 waits on it
+replay2 waiting on build pid 677122 2026-11-21T11:11:15Z
+build stopped for restart 2026-11-21T23:32:35Z: 24 jobs thrashed (memory.max 44,490 hits/min, 8.7M file refaults/min, full pressure 14.6%, 64 modules/min, three lean processes at 10.5-11.1 GB); restarting with 16 jobs per R1
+build restarted 2026-11-21T23:32:51Z pid 2045136 (16 jobs, 52G); replay2 waits on it
+replay2 waiting on build pid 2045136 2026-11-21T23:32:52Z
+build stopped for restart 2026-11-22T02:11:15Z: 16 jobs hit memory.max again (9,842 cumulative, 83 hits/min, 11.7M file refaults/min, full pressure 6.6%, about 58 modules/min, cgroup at 52.5 GB, mostly page cache); restarting with 12 jobs per R1
+build restarted 2026-11-22T02:11:31Z pid 2341916 (12 jobs, 52G); replay2 waits on it
+replay2 waiting on build pid 2341916 2026-11-22T02:11:32Z
+R1 build exit 0 2026-11-22T15:11:38Z (read from build.log by replay2)
+R2 audit exit 0
+R4 leaves 175073 parents 114
+R4 chunk 2000 2026-11-22T22:02:02Z pass-total 2000
+R4 chunk 2000 2026-11-23T01:51:05Z pass-total 4000
+replay3 start 2026-11-23T03:44:12Z with lc_run.sh version 2, jobs 28
+R4 chunk 2000 2026-11-23T03:57:41Z pass-total 7125
+R4 chunk 2000 2026-11-23T04:08:09Z pass-total 9125
+R4 chunk 2000 2026-11-23T04:23:37Z pass-total 11125
+R4 chunk 2000 2026-11-23T05:54:43Z pass-total 13125
+R4 done 2026-11-23T05:54:52Z pass 13125 fail 0 recheck-fail 0
+DONE
+olean manifest 175187 files sha256 e568bf3058c58bfa09f1f89c5645e37781673582d029bb1057fb20415ec99d85 2026-11-23T08:51:41Z
+MANIFEST-END

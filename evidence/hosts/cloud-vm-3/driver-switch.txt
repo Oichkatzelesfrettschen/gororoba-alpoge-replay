@@ -1,0 +1,5 @@
+2026-11-23T03:34:38Z FAIL calibration rc=1: FAIL Fixture: while replaying declaration 'ReplayFixture.bogus': (kernel) declaration type mismatch, 'ReplayFixture.bogus' has type   True but it is expected to have type   False FAIL Good: unknown module prefix 'Good'  No directory 'Good' or file 'Good.olean' in the search path entries: ~
+2026-11-23T03:35:10Z calibration ok: Fixture rejected (ReplayFixture.bogus), Good accepted; alpocheck sha256 ad3ec835ff683763d7c431ae67b752899ebb30e5a9404270fc674bfd6f4b7c60
+2026-11-23T03:35:31Z agreement ok: 14 of 14 leanchecker-passed modules pass
+2026-11-23T03:35:36Z switch: shard 2 of 4, jobs 15, 0 killed lines moved out of results.txt, pass 42131
+2026-11-23T03:35:40Z checker5 restarted on shard 2 with lc_run.sh version 2

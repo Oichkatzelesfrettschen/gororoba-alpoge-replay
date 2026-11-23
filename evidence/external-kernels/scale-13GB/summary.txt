@@ -1,0 +1,11 @@
+2026-11-23T06:58:26Z start: Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsogenyBijectiveOnTorsionCoprimeDegree GlobalTheory.isogeny_torsion_bij
+/dev/sdd       1007G  878G   79G  92% /
+2026-11-23T07:12:21Z export rc=0 833.95 s wall, 748.63 user, 72.06 sys, 30199864 KB peakrss, 68512 majflt  pss_anon_peak 16169 MB
+2026-11-23T07:12:49Z export bytes 13324350508 lines 234938508 sha256 b3d12351eff0b471602cc44ac06019280c413b646e8bd8a2c51ea9c9a6dad327
+2026-11-23T07:22:48Z con-leche rc=0 599.39 s wall, 3418.31 user, 143.20 sys, 14568092 KB peakrss, 10 majflt  pss_anon_peak 14201 MB
+2026-11-23T07:22:48Z con-leche: con-leche: accepted 867348 declarations (--verified)
+2026-11-23T07:25:02Z con-ron rc=2 Command exited with non-zero status 2 132.81 s wall, 87.23 user, 45.44 sys, 10970184 KB peakrss, 1 majflt  pss_anon_peak 10709 MB
+2026-11-23T07:25:02Z con-ron:  (--verified)
+2026-11-23T07:28:43Z nanoda rc=1 Command exited with non-zero status 1 218.86 s wall, 197.71 user, 21.07 sys, 10206076 KB peakrss, 1 majflt  pss_anon_peak 9916 MB
+2026-11-23T07:28:43Z nanoda: run with `-h` or `--help` for help
+CAL3-END

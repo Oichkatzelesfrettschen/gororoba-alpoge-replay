@@ -1,0 +1,7 @@
+name = "alpocheck"
+defaultTargets = ["alpocheck"]
+
+[[lean_exe]]
+name = "alpocheck"
+root = "AlpoCheck"
+supportInterpreter = true

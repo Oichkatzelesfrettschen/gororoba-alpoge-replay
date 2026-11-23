@@ -1,0 +1,4 @@
+2026-11-23T03:37:54Z calibration ok: Fixture rejected (ReplayFixture.bogus), Good accepted; alpocheck sha256 ad3ec835ff683763d7c431ae67b752899ebb30e5a9404270fc674bfd6f4b7c60
+2026-11-23T03:38:16Z agreement ok: 14 of 14 leanchecker-passed modules pass
+2026-11-23T03:38:19Z switch: shard 0 of 4, jobs 15, 0 killed lines moved out of results.txt, pass 40517
+2026-11-23T03:38:22Z checker5 restarted on shard 0 with lc_run.sh version 2

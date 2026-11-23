@@ -1,0 +1,4 @@
+2026-11-23T03:43:54Z calibration ok: Fixture rejected (ReplayFixture.bogus), Good accepted; alpocheck sha256 ad3ec835ff683763d7c431ae67b752899ebb30e5a9404270fc674bfd6f4b7c60
+2026-11-23T03:43:54Z agreement: 40 of 40 leanchecker-passed modules pass (driver-agreement-40.txt)
+2026-11-23T03:44:12Z switch: jobs 28, 0 killed lines moved out of results.txt, pass 5125
+2026-11-23T03:44:14Z replay3 started

@@ -1,0 +1,674 @@
+~/alpo/lean.tar.gz: OK
+cache get exit 0
+setup done 2026-11-20T20:36:19Z
+checker3 shard 1/4 started 2026-11-20T20:36:22Z
+batch 00001.tar.zst extracted 20:36:37
+batch 00002.tar.zst extracted 20:36:40
+batch 00003.tar.zst extracted 20:36:42
+chunk 700 done 20:49:48 pass-total 700
+chunk 700 done 21:02:27 pass-total 1400
+batch 00004.tar.zst extracted 21:02:31
+chunk 279 done 21:07:40 pass-total 1679
+batch 00005.tar.zst extracted 21:07:44
+chunk 200 done 21:11:34 pass-total 1879
+batch 00006.tar.zst extracted 21:26:46
+chunk 225 done 21:31:10 pass-total 2104
+batch 00007.tar.zst extracted 21:41:19
+chunk 173 done 21:44:49 pass-total 2277
+batch 00008.tar.zst extracted 22:00:00
+chunk 241 done 22:04:58 pass-total 2518
+batch 00009.tar.zst extracted 22:05:02
+chunk 109 done 22:07:22 pass-total 2627
+batch 00010.tar.zst extracted 22:22:34
+chunk 379 done 22:30:41 pass-total 3006
+batch 00011.tar.zst extracted 22:40:52
+chunk 381 done 22:49:23 pass-total 3387
+batch 00012.tar.zst extracted 22:54:31
+chunk 402 done 23:03:51 pass-total 3789
+batch 00013.tar.zst extracted 23:14:01
+chunk 358 done 23:22:34 pass-total 4147
+batch 00014.tar.zst extracted 23:32:46
+chunk 398 done 23:42:43 pass-total 4545
+batch 00015.tar.zst extracted 23:52:56
+chunk 469 done 00:04:59 pass-total 5014
+batch 00016.tar.zst extracted 00:10:22
+chunk 452 done 00:22:30 pass-total 5466
+batch 00017.tar.zst extracted 00:27:40
+chunk 587 done 00:46:29 pass-total 6053
+batch 00018.tar.zst extracted 00:46:35
+chunk 441 done 00:59:27 pass-total 6494
+batch 00019.tar.zst extracted 01:04:35
+chunk 461 done 01:18:29 pass-total 6955
+batch 00020.tar.zst extracted 01:23:38
+chunk 471 done 01:38:14 pass-total 7426
+batch 00021.tar.zst extracted 01:43:24
+chunk 498 done 01:59:20 pass-total 7924
+batch 00022.tar.zst extracted 02:04:30
+chunk 700 done 02:28:34 pass-total 8624
+batch 00023.tar.zst extracted 02:28:40
+chunk 557 done 02:48:08 pass-total 9181
+batch 00024.tar.zst extracted 02:48:14
+chunk 432 done 03:03:56 pass-total 9613
+batch 00025.tar.zst extracted 03:04:02
+chunk 511 done 03:22:43 pass-total 10124
+batch 00026.tar.zst extracted 03:22:49
+chunk 554 done 03:43:52 pass-total 10678
+batch 00027.tar.zst extracted 03:43:58
+batch 00028.tar.zst extracted 03:44:02
+chunk 700 done 04:12:19 pass-total 11378
+batch 00029.tar.zst extracted 04:12:24
+chunk 700 done 04:41:31 pass-total 12078
+batch 00030.tar.zst extracted 04:41:37
+batch 00031.tar.zst extracted 04:41:41
+chunk 700 done 05:12:39 pass-total 12778
+batch 00032.tar.zst extracted 05:12:45
+chunk 700 done 05:44:25 pass-total 13478
+batch 00033.tar.zst extracted 05:44:32
+batch 00034.tar.zst extracted 05:44:37
+chunk 700 done 06:18:05 pass-total 14178
+batch 00035.tar.zst extracted 06:18:09
+batch 00036.tar.zst extracted 06:18:13
+chunk 700 done 06:53:07 pass-total 14878
+batch 00037.tar.zst extracted 06:53:12
+batch 00038.tar.zst extracted 06:53:16
+chunk 700 done 07:29:38 pass-total 15578
+batch 00039.tar.zst extracted 07:29:45
+batch 00040.tar.zst extracted 07:29:49
+chunk 700 done 08:08:14 pass-total 16278
+batch 00041.tar.zst extracted 08:08:20
+batch 00042.tar.zst extracted 08:08:23
+chunk 700 done 08:48:04 pass-total 16978
+batch 00043.tar.zst extracted 08:48:11
+batch 00044.tar.zst extracted 08:48:15
+chunk 700 done 09:29:06 pass-total 17678
+batch 00045.tar.zst extracted 09:29:11
+batch 00046.tar.zst extracted 09:29:13
+chunk 700 done 10:11:30 pass-total 18378
+batch 00047.tar.zst extracted 10:11:34
+batch 00048.tar.zst extracted 10:11:35
+batch 00049.tar.zst extracted 10:11:37
+chunk 700 done 10:54:12 pass-total 19078
+batch 00050.tar.zst extracted 10:54:16
+batch 00051.tar.zst extracted 10:54:20
+batch 00052.tar.zst extracted 10:54:24
+chunk 700 done 11:37:16 pass-total 19778
+batch 00053.tar.zst extracted 11:37:23
+batch 00054.tar.zst extracted 11:37:26
+chunk 700 done 12:20:59 pass-total 20435
+batch 00055.tar.zst extracted 12:21:04
+batch 00056.tar.zst extracted 12:21:08
+batch 00057.tar.zst extracted 12:21:11
+chunk 700 done 13:08:16 pass-total 21135
+batch 00058.tar.zst extracted 13:08:20
+batch 00059.tar.zst extracted 13:08:23
+batch 00060.tar.zst extracted 13:08:28
+chunk 700 done 13:58:57 pass-total 21835
+batch 00061.tar.zst extracted 13:59:02
+batch 00062.tar.zst extracted 13:59:05
+batch 00063.tar.zst extracted 13:59:09
+chunk 700 done 14:51:55 pass-total 22535
+batch 00064.tar.zst extracted 14:52:00
+batch 00065.tar.zst extracted 14:52:07
+batch 00066.tar.zst extracted 14:52:11
+chunk 700 done 15:45:51 pass-total 23235
+batch 00067.tar.zst extracted 15:45:56
+batch 00068.tar.zst extracted 15:46:00
+batch 00069.tar.zst extracted 15:46:04
+chunk 700 done 16:41:26 pass-total 23935
+batch 00070.tar.zst extracted 16:41:31
+batch 00071.tar.zst extracted 16:41:35
+batch 00072.tar.zst extracted 16:41:39
+batch 00073.tar.zst extracted 16:41:43
+chunk 700 done 17:40:12 pass-total 24635
+batch 00074.tar.zst extracted 17:40:18
+batch 00075.tar.zst extracted 17:40:23
+batch 00076.tar.zst extracted 17:40:27
+chunk 700 done 18:41:12 pass-total 25335
+batch 00077.tar.zst extracted 18:41:19
+batch 00078.tar.zst extracted 18:41:24
+batch 00079.tar.zst extracted 18:41:28
+chunk 700 done 19:44:30 pass-total 26035
+batch 00080.tar.zst extracted 19:44:36
+batch 00081.tar.zst extracted 19:44:40
+batch 00082.tar.zst extracted 19:44:43
+batch 00083.tar.zst extracted 19:44:47
+chunk 700 done 20:51:05 pass-total 26735
+batch 00084.tar.zst extracted 20:51:10
+batch 00085.tar.zst extracted 20:51:13
+batch 00086.tar.zst extracted 20:51:17
+batch 00087.tar.zst extracted 20:51:21
+chunk 700 done 21:57:16 pass-total 27435
+batch 00088.tar.zst extracted 21:57:22
+batch 00089.tar.zst extracted 21:57:25
+batch 00090.tar.zst extracted 21:57:32
+chunk 700 done 23:04:55 pass-total 28135
+batch 00091.tar.zst extracted 23:04:59
+batch 00092.tar.zst extracted 23:05:02
+batch 00093.tar.zst extracted 23:05:05
+batch 00094.tar.zst extracted 23:05:07
+chunk 700 done 00:15:50 pass-total 28835
+batch 00095.tar.zst extracted 00:15:55
+batch 00096.tar.zst extracted 00:15:57
+batch 00097.tar.zst extracted 00:16:00
+batch 00098.tar.zst extracted 00:16:03
+chunk 700 done 01:28:19 pass-total 29535
+batch 00099.tar.zst extracted 01:28:24
+batch 00100.tar.zst extracted 01:28:27
+batch 00101.tar.zst extracted 01:28:30
+batch 00102.tar.zst extracted 01:28:33
+batch 00103.tar.zst extracted 01:28:35
+chunk 700 done 02:43:59 pass-total 30235
+batch 00104.tar.zst extracted 02:44:04
+batch 00105.tar.zst extracted 02:44:07
+batch 00106.tar.zst extracted 02:44:10
+batch 00107.tar.zst extracted 02:44:12
+chunk 700 done 04:01:26 pass-total 30935
+batch 00108.tar.zst extracted 04:01:30
+batch 00109.tar.zst extracted 04:01:33
+batch 00110.tar.zst extracted 04:01:36
+batch 00111.tar.zst extracted 04:01:39
+chunk 700 done 05:20:55 pass-total 31635
+batch 00112.tar.zst extracted 05:20:59
+batch 00113.tar.zst extracted 05:21:02
+chunk 700 done 06:40:37 pass-total 32335
+batch 00114.tar.zst extracted 06:40:43
+batch 00115.tar.zst extracted 06:40:44
+batch 00116.tar.zst extracted 06:40:45
+chunk 700 done 08:00:00 pass-total 33035
+batch 00117.tar.zst extracted 08:00:02
+chunk 700 done 09:18:42 pass-total 33735
+batch 00118.tar.zst extracted 09:18:44
+batch 00119.tar.zst extracted 09:18:45
+batch 00120.tar.zst extracted 09:18:46
+chunk 700 done 10:38:21 pass-total 34435
+batch 00121.tar.zst extracted 10:38:24
+chunk 700 done 11:59:01 pass-total 35135
+batch 00122.tar.zst extracted 11:59:03
+chunk 700 done 13:18:44 pass-total 35835
+batch 00123.tar.zst extracted 13:18:46
+chunk 700 done 14:38:26 pass-total 36535
+batch 00124.tar.zst extracted 14:38:29
+chunk 700 done 15:57:48 pass-total 37235
+batch 00125.tar.zst extracted 15:57:50
+handoff stop 2026-11-22T16:27:06Z: checker killed; FAIL lines with rc 129 or 143 after this time are kills
+checker3 shard 1/4 started 2026-11-22T16:55:02Z
+checker3 stopped for checker4 2026-11-22T18:04:41Z: 0 lines after the stop, 0 kill FAIL lines dropped
+checker4 shard 1/4 started 2026-11-22T18:04:42Z
+chunk 700 done 19:08:09 pass-total 38343
+chunk 700 done 19:08:14 pass-total 38343
+chunk 700 done 19:08:18 pass-total 38343
+chunk 700 done 19:08:22 pass-total 38343
+chunk 700 done 19:08:26 pass-total 38343
+chunk 700 done 19:08:31 pass-total 38343
+chunk 700 done 19:08:35 pass-total 38343
+chunk 700 done 19:08:39 pass-total 38343
+chunk 700 done 19:08:43 pass-total 38343
+chunk 700 done 19:08:47 pass-total 38343
+chunk 700 done 19:08:51 pass-total 38343
+chunk 700 done 19:08:56 pass-total 38343
+chunk 700 done 19:09:00 pass-total 38343
+chunk 700 done 19:09:04 pass-total 38343
+chunk 700 done 19:09:09 pass-total 38343
+chunk 700 done 19:09:13 pass-total 38343
+chunk 700 done 19:09:17 pass-total 38343
+chunk 700 done 19:09:21 pass-total 38343
+chunk 700 done 19:09:25 pass-total 38343
+chunk 700 done 19:09:30 pass-total 38343
+chunk 700 done 19:09:34 pass-total 38343
+chunk 700 done 19:09:38 pass-total 38343
+chunk 700 done 19:09:42 pass-total 38343
+chunk 700 done 19:09:46 pass-total 38343
+chunk 700 done 19:09:50 pass-total 38343
+chunk 700 done 19:09:55 pass-total 38343
+chunk 700 done 19:09:59 pass-total 38343
+chunk 700 done 19:10:03 pass-total 38343
+chunk 700 done 19:10:07 pass-total 38343
+chunk 700 done 19:10:11 pass-total 38343
+chunk 700 done 19:10:16 pass-total 38343
+chunk 700 done 19:10:20 pass-total 38343
+chunk 700 done 19:10:24 pass-total 38343
+chunk 700 done 19:10:28 pass-total 38343
+chunk 700 done 19:10:33 pass-total 38343
+chunk 700 done 19:10:37 pass-total 38343
+chunk 700 done 19:10:41 pass-total 38343
+chunk 700 done 19:10:45 pass-total 38343
+chunk 700 done 19:10:49 pass-total 38343
+chunk 700 done 19:10:53 pass-total 38343
+chunk 700 done 19:10:58 pass-total 38343
+chunk 700 done 19:11:02 pass-total 38343
+chunk 700 done 19:11:06 pass-total 38343
+chunk 700 done 19:11:10 pass-total 38343
+chunk 700 done 19:11:14 pass-total 38343
+chunk 700 done 19:11:19 pass-total 38343
+chunk 700 done 19:11:23 pass-total 38343
+chunk 700 done 19:11:27 pass-total 38343
+chunk 700 done 19:11:31 pass-total 38343
+chunk 700 done 19:11:35 pass-total 38343
+chunk 700 done 19:11:39 pass-total 38343
+chunk 700 done 19:11:43 pass-total 38343
+chunk 700 done 19:11:48 pass-total 38343
+chunk 700 done 19:11:52 pass-total 38343
+chunk 700 done 19:11:56 pass-total 38343
+chunk 700 done 19:12:00 pass-total 38343
+chunk 700 done 19:12:04 pass-total 38343
+chunk 700 done 19:12:08 pass-total 38343
+chunk 700 done 19:12:13 pass-total 38343
+chunk 700 done 19:12:17 pass-total 38343
+chunk 700 done 19:12:21 pass-total 38343
+chunk 700 done 19:12:25 pass-total 38343
+chunk 700 done 19:12:29 pass-total 38343
+chunk 700 done 19:12:33 pass-total 38343
+chunk 700 done 19:12:37 pass-total 38343
+chunk 700 done 19:12:41 pass-total 38343
+chunk 700 done 19:12:46 pass-total 38343
+chunk 700 done 19:12:50 pass-total 38343
+chunk 700 done 19:12:54 pass-total 38343
+chunk 700 done 19:12:58 pass-total 38343
+chunk 700 done 19:13:02 pass-total 38343
+chunk 700 done 19:13:06 pass-total 38343
+chunk 700 done 19:13:10 pass-total 38343
+chunk 700 done 19:13:15 pass-total 38343
+chunk 700 done 19:13:19 pass-total 38343
+chunk 700 done 19:13:23 pass-total 38343
+chunk 700 done 19:13:27 pass-total 38343
+chunk 700 done 19:13:31 pass-total 38343
+chunk 700 done 19:13:35 pass-total 38343
+chunk 700 done 19:13:40 pass-total 38343
+chunk 700 done 19:13:44 pass-total 38343
+chunk 700 done 19:13:48 pass-total 38343
+chunk 700 done 19:13:52 pass-total 38343
+chunk 700 done 19:13:56 pass-total 38343
+chunk 700 done 19:14:00 pass-total 38343
+chunk 700 done 19:14:05 pass-total 38343
+chunk 700 done 19:14:09 pass-total 38343
+chunk 700 done 19:14:13 pass-total 38343
+chunk 700 done 19:14:17 pass-total 38343
+chunk 700 done 19:14:22 pass-total 38343
+chunk 700 done 19:14:26 pass-total 38343
+chunk 700 done 19:14:30 pass-total 38343
+chunk 700 done 19:14:34 pass-total 38343
+chunk 700 done 19:14:38 pass-total 38343
+chunk 700 done 19:14:42 pass-total 38343
+chunk 700 done 19:14:47 pass-total 38343
+chunk 700 done 19:14:51 pass-total 38343
+chunk 700 done 19:14:55 pass-total 38343
+chunk 700 done 19:14:59 pass-total 38343
+chunk 700 done 19:15:03 pass-total 38343
+chunk 700 done 19:15:07 pass-total 38343
+chunk 700 done 19:15:12 pass-total 38343
+chunk 700 done 19:15:16 pass-total 38343
+chunk 700 done 19:15:20 pass-total 38343
+chunk 700 done 19:15:24 pass-total 38343
+chunk 700 done 19:15:29 pass-total 38343
+chunk 700 done 19:15:33 pass-total 38343
+chunk 700 done 19:15:37 pass-total 38343
+chunk 700 done 19:15:41 pass-total 38343
+chunk 700 done 19:15:45 pass-total 38343
+chunk 700 done 19:15:49 pass-total 38343
+chunk 700 done 19:15:53 pass-total 38343
+chunk 700 done 19:15:58 pass-total 38343
+chunk 700 done 19:16:02 pass-total 38343
+chunk 700 done 19:16:06 pass-total 38343
+chunk 700 done 19:16:10 pass-total 38343
+chunk 700 done 19:16:14 pass-total 38343
+chunk 700 done 19:16:18 pass-total 38343
+chunk 700 done 19:16:22 pass-total 38343
+chunk 700 done 19:16:27 pass-total 38343
+chunk 700 done 19:16:31 pass-total 38343
+chunk 700 done 19:16:35 pass-total 38343
+chunk 700 done 19:16:39 pass-total 38343
+chunk 700 done 19:16:43 pass-total 38343
+chunk 700 done 19:16:47 pass-total 38343
+chunk 700 done 19:16:51 pass-total 38343
+chunk 700 done 19:16:56 pass-total 38343
+chunk 700 done 19:17:00 pass-total 38343
+chunk 700 done 19:17:04 pass-total 38343
+chunk 700 done 19:17:08 pass-total 38343
+chunk 700 done 19:17:12 pass-total 38343
+chunk 700 done 19:17:16 pass-total 38343
+chunk 700 done 19:17:20 pass-total 38343
+chunk 700 done 19:17:25 pass-total 38343
+chunk 700 done 19:17:29 pass-total 38343
+chunk 700 done 19:17:33 pass-total 38343
+chunk 700 done 19:17:37 pass-total 38343
+chunk 700 done 19:17:41 pass-total 38343
+chunk 700 done 19:17:45 pass-total 38343
+chunk 700 done 19:17:49 pass-total 38343
+chunk 700 done 19:17:54 pass-total 38343
+chunk 700 done 19:17:58 pass-total 38343
+chunk 700 done 19:18:02 pass-total 38343
+chunk 700 done 19:18:06 pass-total 38343
+chunk 700 done 19:18:10 pass-total 38343
+chunk 700 done 19:18:14 pass-total 38343
+chunk 700 done 19:18:18 pass-total 38343
+chunk 700 done 19:18:23 pass-total 38343
+chunk 700 done 19:18:27 pass-total 38343
+chunk 700 done 19:18:32 pass-total 38343
+chunk 700 done 19:18:37 pass-total 38343
+chunk 700 done 19:18:41 pass-total 38343
+chunk 700 done 19:18:45 pass-total 38343
+chunk 700 done 19:18:49 pass-total 38343
+chunk 700 done 19:18:53 pass-total 38343
+chunk 700 done 19:18:57 pass-total 38343
+chunk 700 done 19:19:02 pass-total 38343
+chunk 700 done 19:19:06 pass-total 38343
+chunk 700 done 19:19:10 pass-total 38343
+chunk 700 done 19:19:15 pass-total 38343
+chunk 700 done 19:19:19 pass-total 38343
+chunk 700 done 19:19:23 pass-total 38343
+chunk 700 done 19:19:27 pass-total 38343
+chunk 700 done 19:19:31 pass-total 38343
+chunk 700 done 19:19:35 pass-total 38343
+chunk 700 done 19:19:39 pass-total 38343
+chunk 700 done 19:19:44 pass-total 38343
+chunk 700 done 19:19:48 pass-total 38343
+chunk 700 done 19:19:52 pass-total 38343
+chunk 700 done 19:19:56 pass-total 38343
+chunk 700 done 19:20:00 pass-total 38343
+chunk 700 done 19:20:04 pass-total 38343
+chunk 700 done 19:20:08 pass-total 38343
+chunk 700 done 19:20:13 pass-total 38343
+chunk 700 done 19:20:17 pass-total 38343
+chunk 700 done 19:20:21 pass-total 38343
+chunk 700 done 19:20:25 pass-total 38343
+chunk 700 done 19:20:29 pass-total 38343
+chunk 700 done 19:20:33 pass-total 38343
+chunk 700 done 19:20:38 pass-total 38343
+chunk 700 done 19:20:42 pass-total 38343
+chunk 700 done 19:20:46 pass-total 38343
+chunk 700 done 19:20:50 pass-total 38343
+chunk 700 done 19:20:54 pass-total 38343
+chunk 700 done 19:20:58 pass-total 38343
+chunk 700 done 19:21:02 pass-total 38343
+chunk 700 done 19:21:07 pass-total 38343
+chunk 700 done 19:21:11 pass-total 38343
+chunk 700 done 19:21:15 pass-total 38343
+chunk 700 done 19:21:19 pass-total 38343
+chunk 700 done 19:21:23 pass-total 38343
+chunk 700 done 19:21:28 pass-total 38343
+chunk 700 done 19:21:32 pass-total 38343
+chunk 700 done 19:21:36 pass-total 38343
+chunk 700 done 19:21:40 pass-total 38343
+chunk 700 done 19:21:44 pass-total 38343
+chunk 700 done 19:21:48 pass-total 38343
+chunk 700 done 19:21:53 pass-total 38343
+chunk 700 done 19:21:57 pass-total 38343
+chunk 700 done 19:22:01 pass-total 38343
+chunk 700 done 19:22:05 pass-total 38343
+chunk 700 done 19:22:09 pass-total 38343
+chunk 700 done 19:22:13 pass-total 38343
+chunk 700 done 19:22:17 pass-total 38343
+chunk 700 done 19:22:21 pass-total 38343
+chunk 700 done 19:22:26 pass-total 38343
+chunk 700 done 19:22:30 pass-total 38343
+chunk 700 done 19:22:34 pass-total 38343
+chunk 700 done 19:22:38 pass-total 38343
+chunk 700 done 19:22:42 pass-total 38343
+chunk 700 done 19:22:46 pass-total 38343
+chunk 700 done 19:22:50 pass-total 38343
+chunk 700 done 19:22:54 pass-total 38343
+chunk 700 done 19:22:59 pass-total 38343
+chunk 700 done 19:23:03 pass-total 38343
+chunk 700 done 19:23:07 pass-total 38343
+chunk 700 done 19:23:11 pass-total 38343
+chunk 700 done 19:23:15 pass-total 38343
+chunk 700 done 19:23:19 pass-total 38343
+chunk 700 done 19:23:23 pass-total 38343
+chunk 700 done 19:23:28 pass-total 38343
+chunk 700 done 19:23:32 pass-total 38343
+chunk 700 done 19:23:36 pass-total 38343
+chunk 700 done 19:23:40 pass-total 38343
+chunk 700 done 19:23:44 pass-total 38343
+chunk 700 done 19:23:49 pass-total 38343
+chunk 700 done 19:23:53 pass-total 38343
+chunk 700 done 19:23:57 pass-total 38343
+chunk 700 done 19:24:01 pass-total 38343
+chunk 700 done 19:24:05 pass-total 38343
+chunk 700 done 19:24:09 pass-total 38343
+chunk 700 done 19:24:13 pass-total 38343
+chunk 700 done 19:24:18 pass-total 38343
+chunk 700 done 19:24:22 pass-total 38343
+chunk 700 done 19:24:26 pass-total 38343
+chunk 700 done 19:24:30 pass-total 38343
+chunk 700 done 19:24:34 pass-total 38343
+chunk 700 done 19:24:38 pass-total 38343
+chunk 700 done 19:24:42 pass-total 38343
+chunk 700 done 19:24:47 pass-total 38343
+chunk 700 done 19:24:51 pass-total 38343
+chunk 700 done 19:24:55 pass-total 38343
+chunk 700 done 19:24:59 pass-total 38343
+chunk 700 done 19:25:03 pass-total 38343
+chunk 700 done 19:25:07 pass-total 38343
+chunk 700 done 19:25:12 pass-total 38343
+chunk 700 done 19:25:16 pass-total 38343
+chunk 700 done 19:25:20 pass-total 38343
+chunk 700 done 19:25:24 pass-total 38343
+chunk 700 done 19:25:28 pass-total 38343
+chunk 700 done 19:25:32 pass-total 38343
+chunk 700 done 19:25:36 pass-total 38343
+chunk 700 done 19:25:40 pass-total 38343
+chunk 700 done 19:25:45 pass-total 38343
+chunk 700 done 19:25:49 pass-total 38343
+chunk 700 done 19:25:53 pass-total 38343
+chunk 700 done 19:25:57 pass-total 38343
+chunk 700 done 19:26:01 pass-total 38343
+chunk 700 done 19:26:06 pass-total 38343
+chunk 700 done 19:26:10 pass-total 38343
+chunk 700 done 19:26:14 pass-total 38343
+chunk 700 done 19:26:18 pass-total 38343
+chunk 700 done 19:26:22 pass-total 38343
+chunk 700 done 19:26:26 pass-total 38343
+chunk 700 done 19:26:30 pass-total 38343
+chunk 700 done 19:26:35 pass-total 38343
+chunk 700 done 19:26:39 pass-total 38343
+chunk 700 done 19:26:43 pass-total 38343
+chunk 700 done 19:26:47 pass-total 38343
+chunk 700 done 19:26:51 pass-total 38343
+chunk 700 done 19:26:55 pass-total 38343
+chunk 700 done 19:27:00 pass-total 38343
+chunk 700 done 19:27:04 pass-total 38343
+chunk 700 done 19:27:08 pass-total 38343
+chunk 700 done 19:27:12 pass-total 38343
+chunk 700 done 19:27:16 pass-total 38343
+chunk 700 done 19:27:21 pass-total 38343
+chunk 700 done 19:27:25 pass-total 38343
+chunk 700 done 19:27:29 pass-total 38343
+chunk 700 done 19:27:34 pass-total 38343
+chunk 700 done 19:27:38 pass-total 38343
+chunk 700 done 19:27:42 pass-total 38343
+chunk 700 done 19:27:46 pass-total 38343
+chunk 700 done 19:27:50 pass-total 38343
+chunk 700 done 19:27:55 pass-total 38343
+chunk 700 done 19:27:59 pass-total 38343
+chunk 700 done 19:28:03 pass-total 38343
+chunk 700 done 19:28:07 pass-total 38343
+chunk 700 done 19:28:11 pass-total 38343
+chunk 700 done 19:28:16 pass-total 38343
+chunk 700 done 19:28:20 pass-total 38343
+chunk 700 done 19:28:24 pass-total 38343
+chunk 700 done 19:28:28 pass-total 38343
+chunk 700 done 19:28:32 pass-total 38343
+chunk 700 done 19:28:37 pass-total 38343
+chunk 700 done 19:28:41 pass-total 38343
+chunk 700 done 19:28:45 pass-total 38343
+chunk 700 done 19:28:49 pass-total 38343
+chunk 700 done 19:28:54 pass-total 38343
+chunk 700 done 19:28:58 pass-total 38343
+chunk 700 done 19:29:02 pass-total 38343
+chunk 700 done 19:29:06 pass-total 38343
+chunk 700 done 19:29:10 pass-total 38343
+chunk 700 done 19:29:14 pass-total 38343
+chunk 700 done 19:29:19 pass-total 38343
+chunk 700 done 19:29:23 pass-total 38343
+chunk 700 done 19:29:27 pass-total 38343
+chunk 700 done 19:29:31 pass-total 38343
+chunk 700 done 19:29:35 pass-total 38343
+chunk 700 done 19:29:39 pass-total 38343
+chunk 700 done 19:29:44 pass-total 38343
+chunk 700 done 19:29:48 pass-total 38343
+chunk 700 done 19:29:52 pass-total 38343
+chunk 700 done 19:29:56 pass-total 38343
+chunk 700 done 19:30:00 pass-total 38343
+chunk 700 done 19:30:04 pass-total 38343
+chunk 700 done 19:30:09 pass-total 38343
+chunk 700 done 19:30:13 pass-total 38343
+chunk 700 done 19:30:17 pass-total 38343
+chunk 700 done 19:30:21 pass-total 38343
+chunk 700 done 19:30:25 pass-total 38343
+chunk 700 done 19:30:29 pass-total 38343
+chunk 700 done 19:30:33 pass-total 38343
+chunk 700 done 19:30:38 pass-total 38343
+chunk 700 done 19:30:42 pass-total 38343
+chunk 700 done 19:30:46 pass-total 38343
+chunk 700 done 19:30:50 pass-total 38343
+chunk 700 done 19:30:54 pass-total 38343
+chunk 700 done 19:30:58 pass-total 38343
+chunk 700 done 19:31:02 pass-total 38343
+chunk 700 done 19:31:06 pass-total 38343
+chunk 700 done 19:31:10 pass-total 38343
+chunk 700 done 19:31:15 pass-total 38343
+chunk 700 done 19:31:19 pass-total 38343
+chunk 700 done 19:31:23 pass-total 38343
+chunk 700 done 19:31:27 pass-total 38343
+chunk 700 done 19:31:31 pass-total 38343
+chunk 700 done 19:31:35 pass-total 38343
+chunk 700 done 19:31:39 pass-total 38343
+chunk 700 done 19:31:43 pass-total 38343
+chunk 700 done 19:31:48 pass-total 38343
+chunk 700 done 19:31:52 pass-total 38343
+chunk 700 done 19:31:56 pass-total 38343
+chunk 700 done 19:32:00 pass-total 38343
+chunk 700 done 19:32:04 pass-total 38343
+chunk 700 done 19:32:08 pass-total 38343
+chunk 700 done 19:32:12 pass-total 38343
+chunk 700 done 19:32:16 pass-total 38343
+chunk 700 done 19:32:20 pass-total 38343
+chunk 700 done 19:32:24 pass-total 38343
+chunk 700 done 19:32:29 pass-total 38343
+chunk 700 done 19:32:33 pass-total 38343
+chunk 700 done 19:32:37 pass-total 38343
+chunk 700 done 19:32:41 pass-total 38343
+chunk 700 done 19:32:45 pass-total 38343
+chunk 700 done 19:32:49 pass-total 38343
+chunk 700 done 19:32:53 pass-total 38343
+chunk 700 done 19:32:57 pass-total 38343
+chunk 700 done 19:33:02 pass-total 38343
+chunk 700 done 19:33:06 pass-total 38343
+chunk 700 done 19:33:10 pass-total 38343
+chunk 700 done 19:33:14 pass-total 38343
+chunk 700 done 19:33:18 pass-total 38343
+chunk 700 done 19:33:22 pass-total 38343
+chunk 700 done 19:33:26 pass-total 38343
+chunk 700 done 19:33:30 pass-total 38343
+chunk 700 done 19:33:35 pass-total 38343
+chunk 700 done 19:33:39 pass-total 38343
+chunk 700 done 19:33:43 pass-total 38343
+chunk 700 done 19:33:47 pass-total 38343
+chunk 700 done 19:33:51 pass-total 38343
+chunk 700 done 19:33:55 pass-total 38343
+chunk 700 done 19:33:59 pass-total 38343
+chunk 700 done 19:34:03 pass-total 38343
+chunk 700 done 19:34:07 pass-total 38343
+chunk 700 done 19:34:12 pass-total 38343
+chunk 700 done 19:34:16 pass-total 38343
+chunk 700 done 19:34:20 pass-total 38343
+chunk 700 done 19:34:24 pass-total 38343
+chunk 700 done 19:34:28 pass-total 38343
+chunk 700 done 19:34:32 pass-total 38343
+chunk 700 done 19:34:36 pass-total 38343
+chunk 700 done 19:34:40 pass-total 38343
+chunk 700 done 19:34:44 pass-total 38343
+chunk 700 done 19:34:49 pass-total 38343
+chunk 700 done 19:34:53 pass-total 38343
+chunk 700 done 19:34:57 pass-total 38343
+chunk 700 done 19:35:01 pass-total 38343
+chunk 700 done 19:35:05 pass-total 38343
+chunk 700 done 19:35:09 pass-total 38343
+chunk 700 done 19:35:13 pass-total 38343
+chunk 700 done 19:35:17 pass-total 38343
+chunk 700 done 19:35:21 pass-total 38343
+chunk 700 done 19:35:26 pass-total 38343
+chunk 700 done 19:35:30 pass-total 38343
+chunk 700 done 19:35:34 pass-total 38343
+chunk 700 done 19:35:38 pass-total 38343
+chunk 700 done 19:35:42 pass-total 38343
+chunk 700 done 19:35:46 pass-total 38343
+chunk 700 done 19:35:50 pass-total 38343
+chunk 700 done 19:35:54 pass-total 38343
+chunk 700 done 19:35:59 pass-total 38343
+chunk 700 done 19:36:03 pass-total 38343
+chunk 700 done 19:36:07 pass-total 38343
+chunk 700 done 19:36:11 pass-total 38343
+chunk 700 done 19:36:15 pass-total 38343
+chunk 700 done 19:36:19 pass-total 38343
+chunk 700 done 19:36:23 pass-total 38343
+chunk 700 done 19:36:28 pass-total 38343
+chunk 700 done 19:36:32 pass-total 38343
+chunk 700 done 19:36:36 pass-total 38343
+chunk 700 done 19:36:40 pass-total 38343
+chunk 700 done 19:36:44 pass-total 38343
+chunk 700 done 19:36:48 pass-total 38343
+chunk 700 done 19:36:52 pass-total 38343
+chunk 700 done 19:36:57 pass-total 38343
+chunk 700 done 19:37:01 pass-total 38343
+chunk 700 done 19:37:05 pass-total 38343
+chunk 700 done 19:37:09 pass-total 38343
+chunk 700 done 19:37:13 pass-total 38343
+chunk 700 done 19:37:17 pass-total 38343
+chunk 700 done 19:37:21 pass-total 38343
+chunk 700 done 19:37:25 pass-total 38343
+chunk 700 done 19:37:29 pass-total 38343
+chunk 700 done 19:37:34 pass-total 38343
+chunk 700 done 19:37:38 pass-total 38343
+chunk 700 done 19:37:42 pass-total 38343
+chunk 700 done 19:37:46 pass-total 38343
+chunk 700 done 19:37:50 pass-total 38343
+chunk 700 done 19:37:54 pass-total 38343
+chunk 700 done 19:37:58 pass-total 38343
+chunk 700 done 19:38:02 pass-total 38343
+chunk 700 done 19:38:06 pass-total 38343
+chunk 700 done 19:38:10 pass-total 38343
+chunk 700 done 19:38:15 pass-total 38343
+chunk 700 done 19:38:19 pass-total 38343
+chunk 700 done 19:38:23 pass-total 38343
+chunk 700 done 19:38:27 pass-total 38343
+chunk 700 done 19:38:31 pass-total 38343
+chunk 700 done 19:38:35 pass-total 38343
+chunk 700 done 19:38:39 pass-total 38343
+chunk 700 done 19:38:43 pass-total 38343
+chunk 700 done 19:38:47 pass-total 38343
+chunk 700 done 19:38:52 pass-total 38343
+chunk 700 done 19:38:56 pass-total 38343
+chunk 700 done 19:39:00 pass-total 38343
+chunk 700 done 19:39:04 pass-total 38343
+chunk 700 done 19:39:08 pass-total 38343
+chunk 700 done 19:39:12 pass-total 38343
+lc_run.sh replaced by the xargs -d fix 2026-11-22T19:39:13Z: 70d4a65079ca9f18 -> 4e6c29c7bd3103f0
+chunk 700 done 21:02:48 pass-total 39043
+chunk 700 done 22:29:25 pass-total 39743
+chunk 700 done 23:53:40 pass-total 40443
+checker4 stopped for checker5 2026-11-23T00:44:37Z: 0 lines after the stop, 0 kill FAIL lines dropped
+checker5 shard 1/4 started 2026-11-23T00:44:38Z
+chunk 700 done 02:05:34 pass-total 41581
+chunk 700 done 03:26:25 pass-total 42281
+chunk 700 done 03:48:11 pass-total 43121
+chunk 91 done 03:48:51 pass-total 43212
+chunk 200 done 03:51:38 pass-total 43412
+chunk 200 done 03:54:32 pass-total 43612
+chunk 200 done 03:57:01 pass-total 43812
+chunk 200 done 03:59:18 pass-total 44012
+chunk 200 done 04:01:14 pass-total 44212
+chunk 200 done 04:03:27 pass-total 44412
+chunk 200 done 04:06:42 pass-total 44612
+chunk 200 done 04:10:54 pass-total 44812
+chunk 200 done 04:13:59 pass-total 45012
+chunk 200 done 04:15:57 pass-total 45212
+chunk 200 done 04:18:17 pass-total 45412
+chunk 200 done 04:24:00 pass-total 45612
+chunk 200 done 04:26:29 pass-total 45812
+chunk 200 done 04:28:19 pass-total 46012
+chunk 200 done 04:31:30 pass-total 46212
+chunk 90 done 04:32:35 pass-total 46302
+DONE 2026-11-23T04:32:45Z pass 46302 fail 0
+capture start 2026-11-23T08:50:33Z
+olean manifest 175187 files sha256 e568bf3058c58bfa09f1f89c5645e37781673582d029bb1057fb20415ec99d85 2026-11-23T09:42:38Z

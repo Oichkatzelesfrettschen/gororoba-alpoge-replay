@@ -1,0 +1,6 @@
+FAIL Fixture: while replaying declaration 'ReplayFixture.bogus':
+(kernel) declaration type mismatch, 'ReplayFixture.bogus' has type
+  True
+but it is expected to have type
+  False
+PASS Good

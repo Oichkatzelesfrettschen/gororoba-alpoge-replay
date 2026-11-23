@@ -1,0 +1,10 @@
+2026-11-23T00:52:15Z start on cloud-vm-2
+2026-11-23T00:53:13Z tools: lean4export sha256 805ab4cc6a88dcef; toolchain 4.35.0 23a32522ea2c79f4 60f4ca9fb9436c32 cbf13950fc4a48f6 
+2026-11-23T16:16:01Z stage_ext2 start on cloud-vm-2; nproc 32; MemTotal 251 GiB; free 136G; failsafe power-off in 600 min
+2026-11-23T16:16:01Z earlier partial export: 43452723200 bytes, mtime 2026-11-23 04:33:18.258651744 +0000; the new export overwrites it
+2026-11-23T16:16:06Z tools: lean4export sha256 805ab4cc6a88dcef; toolchain 4.35.0 23a32522ea2c79f4 cbf13950fc4a48f6 
+2026-11-23T16:16:34Z calibration bad: con-leche rc=1 nanoda rc=1
+2026-11-23T16:16:45Z calibration good: con-leche rc=0 nanoda rc=1
+2026-11-23T16:16:45Z FAIL calibration: a checker accepted the known-bad export or refused the known-good one
+2026-11-23T16:16:49Z evidence copied to evidence/stage-ext2
+EXT-END

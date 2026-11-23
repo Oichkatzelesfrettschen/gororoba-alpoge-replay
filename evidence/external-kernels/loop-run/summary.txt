@@ -1,0 +1,6 @@
+2026-11-23T19:43:15Z export rc=0 23.87 s wall, 3.01 user, 6416448 KiB peak | 
+2026-11-23T19:43:15Z export bytes 827281 lines 14965 sha256 4039dcd100d8e33e
+2026-11-23T19:43:58Z nanoda rc=0 42.25 s wall, 38.08 user, 4545756 KiB peak | 
+2026-11-23T19:44:00Z leche-verified rc=3 2.70 s wall, 2.68 user, 308012 KiB peak | s pending t=0.0s (install 0.0s) con-leche: check failed at fold position 406 t=2.6s (check 2.5s) con-leche: done: parse 0.0s, install 0.0s, check 2.5s, 8 workers t=2.6s con-leche: internal error: fuel exhausted: whnf loop [at theorem PI.PC.loop_run._proof_1_1, fold position 406] (--verified) t=2.6s 
+2026-11-23T19:44:03Z leche-trusted rc=3 2.67 s wall, 2.61 user, 311724 KiB peak | con-leche: internal error: fuel exhausted: whnf loop [at theorem PI.PC.loop_run._proof_1_1, fold position 406] (--trusted) t=2.6s 
+LOOP-END

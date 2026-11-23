@@ -1,0 +1,19 @@
+# sh scripts/verify_replay_evidence.sh; sh scripts/cal_verify.sh (run 2026-11-23 on this tree)
+olean manifest: 175187 files, sha256 e568bf3058c58bfa09f1f89c5645e37781673582d029bb1057fb20415ec99d85
+host cloud-vm-1: PASS 46047 (driver 5530, leanchecker 40517), FAIL 2, err files 56 (nonempty 1)
+host cloud-vm-2: PASS 46302 (driver 3881, leanchecker 42421), FAIL 0, err files 29 (nonempty 0)
+host cloud-vm-3: PASS 47903 (driver 5772, leanchecker 42131), FAIL 0, err files 28 (nonempty 0)
+host cloud-vm-4: PASS 29469 (driver 2800, leanchecker 26669), FAIL 0, err files 39 (nonempty 0)
+host workstation: PASS 13125 (driver 8000, leanchecker 5125), FAIL 0, err files 3 (nonempty 0)
+coverage: 175187 of 175187 modules have a PASS line
+split: 156408 modules with a leanchecker PASS, 18779 with driver PASS lines only
+harness artifact: FAIL line for Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.HypothesesZ on cloud-vm-1, a name outside the module list
+VERDICT PASS
+ok real: pass (VERDICT PASS)
+ok missing: fail (FAIL 1 modules without a PASS line, first: BuildAid.D1)
+ok kernel: fail (FAIL FAIL line for listed module BuildAid.D2 on cloud-vm-2)
+ok errkernel: fail (FAIL kernel message in cloud-vm-3 err file BuildAid.D3)
+ok manifest: fail (FAIL cloud-vm-1: manifest digest differs: olean manifest 175187 files sha256 X568bf3058c58bfa09f1f89c5645e37781673582d029bb1057fb20415ec99d85 2026-11-23T08:57:19Z)
+ok calib: fail (FAIL cloud-vm-4: no calibration ok line for alpocheck ad3ec835ff683763d7c431ae67b752899ebb30e5a9404270fc674bfd6f4b7c60)
+ok malformed: fail (FAIL workstation: 1 malformed results lines, first: PASS)
+CAL-PASS

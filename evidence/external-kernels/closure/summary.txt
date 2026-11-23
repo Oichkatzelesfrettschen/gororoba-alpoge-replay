@@ -1,0 +1,29 @@
+2026-11-23T00:52:15Z start on cloud-vm-2
+2026-11-23T00:53:13Z tools: lean4export sha256 805ab4cc6a88dcef; toolchain 4.35.0 23a32522ea2c79f4 60f4ca9fb9436c32 cbf13950fc4a48f6 
+2026-11-23T16:16:01Z stage_ext2 start on cloud-vm-2; nproc 32; MemTotal 251 GiB; free 136G; failsafe power-off in 600 min
+2026-11-23T16:16:01Z earlier partial export: 43452723200 bytes, mtime 2026-11-23 04:33:18.258651744 +0000; the new export overwrites it
+2026-11-23T16:16:06Z tools: lean4export sha256 805ab4cc6a88dcef; toolchain 4.35.0 23a32522ea2c79f4 cbf13950fc4a48f6 
+2026-11-23T16:16:34Z calibration bad: con-leche rc=1 nanoda rc=1
+2026-11-23T16:16:45Z calibration good: con-leche rc=0 nanoda rc=1
+2026-11-23T16:16:45Z FAIL calibration: a checker accepted the known-bad export or refused the known-good one
+2026-11-23T16:16:49Z evidence copied to evidence/stage-ext2
+EXT-END
+2026-11-23T16:26:23Z stage_ext2 start on cloud-vm-2; nproc 32; MemTotal 251 GiB; free 136G; failsafe power-off in 600 min
+2026-11-23T16:26:23Z earlier partial export: 43452723200 bytes, mtime 2026-11-23 04:33:18.258651744 +0000; the new export overwrites it
+2026-11-23T16:26:27Z calibration exports: 76cb0a260cc4bf99 e96926c65fc3cdb7 
+2026-11-23T16:26:28Z tools: lean4export sha256 805ab4cc6a88dcef; toolchain 4.35.0 23a32522ea2c79f4 cbf13950fc4a48f6 
+2026-11-23T16:26:28Z calibration bad: con-leche rc=1 nanoda rc=101
+2026-11-23T16:26:36Z calibration good: con-leche rc=0 nanoda rc=0
+2026-11-23T16:49:06Z prewarm: oleans read in 589 s (64 parallel readers, disk resized to 1500 GB at 16:40Z)
+2026-11-23T16:51:18Z prewarm 2: Mathlib and toolchain module files other than .olean read in 53 s
+2026-11-23T18:23:17Z export rc=0 7000.54 s wall, 5403.99 user, 131.10 sys, 162475532 KiB peak pss_anon_peak_mb 69729
+2026-11-23T18:23:17Z export bytes 61571290481 exit 0 last-line-json ok
+2026-11-23T18:23:17Z checkers together, 16 threads each (2.3 x 61571290481 < MemAvailable 229927337984)
+2026-11-23T18:50:50Z main5-con-leche rc=3 1653.33 s wall, 9135.83 user, 94.38 sys, 54402000 KiB peak pss_anon_peak_mb 52355
+2026-11-23T19:20:17Z main5-nanoda rc=0 3420.64 s wall, 31587.86 user, 303.89 sys, 80378504 KiB peak pss_anon_peak_mb 78214
+2026-11-23T19:20:17Z export lines 1080769494 sha256 4301ce4828d397c728e87f3e6a1251aa42abe5e12809bb9e0b73cc3d33072e7e
+2026-11-23T19:20:17Z namecheck: 1460445 declarations; axioms: Classical.choice, Quot.sound, propext 
+2026-11-23T19:20:17Z con-leche: con-leche: internal error: fuel exhausted: whnf loop [at theorem PI.PC.loop_run._proof_1_1, fold position 571290] (--verified) t=1651.7s 
+2026-11-23T19:20:17Z nanoda: 
+2026-11-23T19:20:26Z evidence copied to evidence/stage-ext2
+EXT-END

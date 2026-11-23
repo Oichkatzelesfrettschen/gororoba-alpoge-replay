@@ -1,0 +1,11 @@
+driver/AlpoCheck.lean copies the function replayFromImports from Lean 4 (https://github.com/leanprover/lean4,
+tag v4.33.1, commit 819816b2e0a3, src/LeanChecker.lean), whose header reads:
+
+  Copyright (c) 2023 Kim Morrison. All rights reserved.
+  Released under Apache 2.0 license as described in the file LICENSE.
+  Authors: Kim Morrison, Sebastian Ullrich
+
+That function stays under the Apache License 2.0 (LICENSE-Apache-2.0 beside this file, the toolchain's LICENSE).
+The rest of AlpoCheck.lean, lakefile.toml and lean-toolchain are under this repository's BSD 3-Clause License.
+The file's bytes are kept as run: its sha256 05bbf74d22388d256f1c6f57866d852d0f85789d20075aaca1bf8b7fb6446f41 is
+cited in CERTIFICATION.md.

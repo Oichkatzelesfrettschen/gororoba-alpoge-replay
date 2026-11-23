@@ -1,0 +1,6 @@
+con-leche: parse done: 408 fold records — the file's 402, 6 built-in prelude records synthesised t=0.0s (parse 0.0s)
+con-leche: install 0/408 inductive Eq t=0.0s
+con-leche: install done: 408/408 declarations installed, 339 checks pending t=0.0s (install 0.0s)
+con-leche: check failed at fold position 406 t=2.6s (check 2.5s)
+con-leche: done: parse 0.0s, install 0.0s, check 2.5s, 8 workers t=2.6s
+con-leche: internal error: fuel exhausted: whnf loop [at theorem PI.PC.loop_run._proof_1_1, fold position 406] (--verified) t=2.6s
