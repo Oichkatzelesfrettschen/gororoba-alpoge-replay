@@ -17,7 +17,7 @@ theorems' complete dependency closure by an independently written kernel. `CERTI
 | Build (Lean 4.33.1, Mathlib 0df444a3) | 175,187 modules, "Build completed successfully" |
 | Statement audit (`audit/GororobaAudit.lean`) | two theorems state the Riemann hypothesis (Mathlib's `RiemannHypothesis` and the zeros-on-the-line form) and three state it for Dirichlet L-functions, each matched to its standard form by `Iff.rfl`; axioms: propext, Classical.choice, Quot.sound |
 | Lean kernel replay of every module | 175,187 of 175,187 PASS on five hosts; no kernel rejection (`scripts/verify_replay_evidence.sh`, calibrated) |
-| Independent kernel on the five theorems' closure (61.6 GB, 1,460,445 declarations) | nanoda: accepted (strict, three standard axioms); con-leche: no verdict (its normalization step budget, at one `decide +kernel` proof); con-ron: declines inputs of this size |
+| Independent kernel on the five theorems' closure (61.6 GB, 1,460,445 declarations) | nanoda: accepted (strict, three standard axioms); con-leche: no verdict (its normalization step budget, at one `decide +kernel` proof); con-ron: not run on the closure, since it declined a 13.3 GB export at its arena capacity |
 
 The theorems `riemannHypothesis`, `riemannZeta_eq_zero_re`, `LFunction_ne_zero_of_half_lt_re`,
 `LFunction_eq_zero_re` and `LFunction_eq_zero_re_of_isPrimitive` therefore follow, in Lean's logic with the three

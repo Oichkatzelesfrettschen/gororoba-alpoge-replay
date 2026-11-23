@@ -64,7 +64,7 @@ Two replay programs ran, both calling Lean 4.33.1's kernel through the function 
 
 ## (d) Independent kernel in detail
 
-- Export: lean4export 4.33.1 (sha256 805ab4cc...) of `Main -- <the five theorems>` on one c2d-highmem-32 VM
+- Export: lean4export at tag v4.33.0 (commit 15f6055e299a), built with Lean 4.33.1 (sha256 805ab4cc...) of `Main -- <the five theorems>` on one c2d-highmem-32 VM
   (251 GiB), 2026-11-23: exit 0 after 7,000.5 s, peak RSS 162.5 GB (private 69.7 GB); 61,571,290,481 bytes,
   1,080,769,494 lines, sha256 4301ce4828d397c728e87f3e6a1251aa42abe5e12809bb9e0b73cc3d33072e7e; 1,460,445 declarations
   whose axioms are exactly propext, Classical.choice, Quot.sound (`external_kernel_export.py`).
