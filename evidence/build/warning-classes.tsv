@@ -1,0 +1,10 @@
+warning_class	count
+unused_tactic	115756
+unreachable_tactic	113963
+try_this	97738
+deprecated	32906
+unused_section_variable	32719
+unused_variable	28785
+unused_simp_argument	28291
+overlapping_instances	5176
+other	4987

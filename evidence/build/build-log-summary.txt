@@ -1,0 +1,10 @@
+build_log_sha256 90518f5f771119dcbceac55887324b1339c88048881e4730b8dd98091dd57a38
+build_log_bytes 637334344
+build_log_lines 8828241
+modules 175187
+headers info Built 21
+headers info Replayed 67
+headers ok Built 71121
+headers warn Built 104044
+headers warn Replayed 275395
+sorry_warnings 0
